@@ -1,4 +1,4 @@
-package springboot.rabbitmq.demo.consumer;
+package springboot.rabbitmq.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
